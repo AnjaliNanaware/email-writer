@@ -69,5 +69,3 @@ To get this project running locally, you would typically need to:
     * Click "Load unpacked" and select the `email-writer-ext` directory.
 
 Once both the backend and the extension are running, the extension should be able to interact with email platforms and communicate with the backend API to provide email writing assistance.
-
-**Note:** This is a high-level overview based on the provided file structure. Specific setup instructions and API details might be found in further documentation or within the code itself.
