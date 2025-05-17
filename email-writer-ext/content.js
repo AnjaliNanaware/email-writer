@@ -85,7 +85,6 @@ function injectButton(){
 
             const emailContent=getEmailContent();
             
-            // alert(emailContent);
             const response=await fetch('http://localhost:8085/api/email/generate',{
                 method:'POST',
                 headers:{
